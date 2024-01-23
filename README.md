@@ -1,2 +1,2 @@
 # MindHaven
-MindHaven Your Personalized Mental Health Coach
+MindHaven Your Personalized Mental Health 
